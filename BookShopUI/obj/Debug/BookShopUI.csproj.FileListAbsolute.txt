@@ -1,0 +1,38 @@
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Debug\BookShopUI.exe.config
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Debug\BookShopUI.exe
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Debug\BookShopUI.pdb
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.csprojAssemblyReference.cache
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Form1.resources
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Properties.Resources.resources
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.csproj.GenerateResource.cache
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.exe
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.pdb
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Debug\MySql.Data.dll
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Debug\Renci.SshNet.dll
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Debug\MySql.Data.xml
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.csproj.CopyComplete
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Form2.resources
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Form3.resources
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Form4.resources
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Form5.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Debug\BookShopUI.exe.config
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Debug\BookShopUI.exe
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Debug\BookShopUI.pdb
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Debug\Google.Protobuf.dll
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Debug\MySql.Data.dll
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Debug\Renci.SshNet.dll
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Debug\MySql.Data.xml
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.csprojAssemblyReference.cache
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Form1.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Form2.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Form3.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Form4.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Form5.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.Properties.Resources.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.csproj.GenerateResource.cache
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.csproj.CopyComplete
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.exe
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Debug\BookShopUI.pdb

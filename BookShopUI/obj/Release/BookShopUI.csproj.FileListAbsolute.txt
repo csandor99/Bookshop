@@ -1,0 +1,38 @@
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Release\BookShopUI.exe.config
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Release\BookShopUI.exe
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Release\BookShopUI.pdb
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Release\Google.Protobuf.dll
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Release\MySql.Data.dll
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Release\Renci.SshNet.dll
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\bin\Release\MySql.Data.xml
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.csprojAssemblyReference.cache
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.Form1.resources
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.Form2.resources
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.Properties.Resources.resources
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.csproj.GenerateResource.cache
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.csproj.CopyComplete
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.exe
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.pdb
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.Form3.resources
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.Form4.resources
+C:\Users\Sandor\source\repos\BookShopUI\BookShopUI\obj\Release\BookShopUI.Form5.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Release\BookShopUI.exe.config
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Release\BookShopUI.exe
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Release\BookShopUI.pdb
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Release\BouncyCastle.Crypto.dll
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Release\Google.Protobuf.dll
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Release\MySql.Data.dll
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Release\Renci.SshNet.dll
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\bin\Release\MySql.Data.xml
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.csprojAssemblyReference.cache
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.Form1.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.Form2.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.Form3.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.Form4.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.Form5.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.Properties.Resources.resources
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.csproj.GenerateResource.cache
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.csproj.CopyComplete
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.exe
+D:\Fisiere\UTCN\AN 2 - SEM 1\DB\BookShopUI\BookShopUI\obj\Release\BookShopUI.pdb
